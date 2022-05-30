@@ -1,0 +1,74 @@
+body {
+    background-image: url(login_page_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 110%;
+}
+
+#p1 {
+    border-style: solid;
+    border-color: mediumspringgreen;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+#p2 {
+    border-style: solid;
+    border-color:mediumslateblue;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+#loginbtn {
+    background-color: mediumvioletred;
+    border-color: mediumvioletred;
+    width: 75px;
+    height: 25px;
+    color: white;
+}
+
+h1 {
+    color:ghostwhite;
+}
+
+h3 {
+    color: ghostwhite;
+}
+
+input {
+    border-color:midnightblue;
+    background-color:midnightblue;
+    width: 200px;
+    height: 20px;;
+    color: white;
+}
+
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px, solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#number1 {
+    background-color:palevioletred;
+    border-color: palevioletred;
+    width: 200px;
+    height: 20px;
+}
+
+#number2 {
+    background-color:palevioletred;
+    border-color: palevioletred;
+    width: 200px;
+    height: 20px;
+}
+
+#send_answer {
+    background-color:springgreen;
+    border-color: springgreen;
+    color: white;
+    width: 110px;
+    height: 25px;
+}
